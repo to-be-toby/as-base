@@ -58,6 +58,7 @@ p {
 .icon-master {
   display: flex;
   justify-content: center;
+  margin-left: 30px;
 }
 
 .icon-selection {
