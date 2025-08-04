@@ -1,0 +1,79 @@
+p {
+  font-family: "Bitcount Single", Arial;
+}
+
+.title{
+  color: rgb(252, 0, 42);
+  font-size: 60px;
+  top: 15px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.subtitle {
+  color: rgb(252, 0, 42);
+  font-size: 30px;
+  top: 15px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.homepage {
+  background-color: aqua;
+}
+
+.text-page {
+  background-color:aqua;
+}
+
+.text-container {
+  border-style: solid;
+  border-width: 5px;
+  border-color: chartreuse;
+  margin: 0 auto;
+  padding: 15px;
+  background-color: black;
+  margin-bottom: 5px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.text{
+  font-size: 20px;
+  color: rgb(70, 80, 25);
+}
+
+.goldie-img,
+.silverie-img,
+.bronzie-img {
+  width: 250px;
+  border-radius: 50px;
+}
+
+.silverie-img,
+.bronzie-img {
+  height: 250px;
+}
+
+.icon-master {
+margin-left: 50px;
+margin-right: 50px;
+display: flex;
+justify-content: center;
+gap: 20px
+;
+}
+
+.icon-selection {
+  width: 300px;
+  display: inline-block;
+  margin-left: 0px;
+}
+
+.text-back {
+  margin-left: 25px;
+}
+
+.pictures-page {
+  background-color: pink;
+}
